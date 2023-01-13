@@ -8,9 +8,12 @@ About me
 
 Languages and Tools
 
-[![pycharm](https://img.shields.io/badge/-Pycharm-C0FF00?style=for-the-badge&logo=pycharm&logoColor=090909)](https://www.jetbrains.com/pycharm/download/#section=windows)
+
+[![pycharm]("C:\Users\malik\Downloads\pycharm.svg")](https://www.jetbrains.com/pycharm/download/#section=windows)
+[![pycharm](https://img.shields.io/badge/-C0FF00?logo=pycharm&logoColor=090909&logoWidth=10)](https://www.jetbrains.com/pycharm/download/#section=windows)
 [![pycharm](https://github.com/UIWRTY/UIWRTY/blob/main/assets/pycharm.svg)](https://www.jetbrains.com/pycharm/download/#section=windows)
 [![postman](https://github.com/UIWRTY/UIWRTY/blob/main/assets/Postman.png)](https://www.postman.com/downloads/)
+
 
 
 
