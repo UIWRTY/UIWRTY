@@ -9,7 +9,7 @@ About me
 Languages and Tools
 
 [![pycharm](https://img.shields.io/badge/-Pycharm-C0FF00?style=for-the-badge&logo=pycharm&logoColor=090909)](https://www.jetbrains.com/pycharm/download/#section=windows)
-[![pycharm](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dpycharm&psig=AOvVaw3vkT4KFxnWyc3MiQf1TaUj&ust=1673724992920000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD988-lxfwCFQAAAAAdAAAAABAD)](https://www.jetbrains.com/pycharm/download/#section=windows)
+[![pycharm](https://github.com/UIWRTY/UIWRTY/blob/main/assets/ide-dlja-python-pycharm.jpeg)](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 
 
