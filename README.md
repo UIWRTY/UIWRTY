@@ -15,6 +15,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "git" alt = "git" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/postman.svg" title = "postman" alt = "postman" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title = "github" alt = "github" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/Testrail.svg" title = "testrail" alt = "testrail" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/apachejmeter.svg" title = "apache" alt = "jmeter" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/jirasoftware.svg" title = "jira" alt = "jira" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/q_logo.svg" title = "qase" alt = "qase" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/selenium.svg" title = "selenium" alt = "selenium" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/sitechco.svg" title = "sitechco" alt = "sitechco" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/testlink.svg" title = "testlink" alt = "testlink" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/wireshark.svg" title = "wireshark" alt = "wireshark" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title = "jetbrains" alt = "jetbrains" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title = "postgreSQL" alt = "pgAdmin_postgreSQL" width="60" height="60"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
