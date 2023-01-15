@@ -1,21 +1,17 @@
-### Hi there 👋
-
-[![Header](https://github.com/UIWRTY/UIWRTY/blob/main/assets/1653613466_10-funart-pro-p-krisa-za-kompom-krasivo-foto-10.jpg)]
-
-About me
-## I' am beginner tester QA and QC engineer
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
-Languages and Tools
+### :hammer_and_wrench: Languages and Tools :
 
 
-[![pycharm]("C:\Users\malik\Downloads\pycharm.svg")](https://www.jetbrains.com/pycharm/download/#section=windows)
-[![pycharm](https://img.shields.io/badge/-C0FF00?logo=pycharm&logoColor=090909&logoWidth=10)](https://www.jetbrains.com/pycharm/download/#section=windows)
-[![pycharm](https://github.com/UIWRTY/UIWRTY/blob/main/assets/pycharm.svg)](https://www.jetbrains.com/pycharm/download/#section=windows)
-[![postman](https://github.com/UIWRTY/UIWRTY/blob/main/assets/Postman.png)](https://www.postman.com/downloads/)
+<div>
 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "python" alt = "python" width="40" height="40"/>&nbsp;
 
+</div>
 
+### :fire: My Stats :
 
-
-Follow me
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UIWRTY&theme=dark&background=000000)](https://git.io/streak-stats)
