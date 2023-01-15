@@ -24,7 +24,7 @@
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/JetBrains_logo.png" title = "jetbrains" alt = "jetbrains" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title = "postgreSQL" alt = "pgAdmin_postgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/YouTrack_Icon.png" title = "youtrack" alt = "youtrack" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/GitHub-Mark.png" title = "github" alt = "github" width="100" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/GitHub-Mark.png" title = "github" alt = "github" width="60" height="60"/>&nbsp;
 
 </div>
 
