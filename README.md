@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="600"/>
 </div>
 
 ## header
@@ -17,14 +17,17 @@
 I'm beginner test engineer. My name is Malik Ibragimov.
 
 ## My resume:
-https://myresume.ru/resume/2m2Tjk21gT7/
+- [My resume](https://myresume.ru/resume/2m2Tjk21gT7/)
 
 
 ## Examples of my work with test documentation:
-https://github.com/UIWRTY/Chek-lists.git
-https://github.com/UIWRTY/Test-cases.git
-https://github.com/UIWRTY/Bug-reports.git
-https://github.com/UIWRTY/-test-completion-report.git
+- [Check-lists](https://github.com/UIWRTY/Chek-lists.git)
+
+- [Test-cases](https://github.com/UIWRTY/Test-cases.git)
+
+- [Bug-reports](https://github.com/UIWRTY/Bug-reports.git)
+
+- [Test completion report](https://github.com/UIWRTY/-test-completion-report.git)
 ### :hammer_and_wrench: Languages and Tools :
 
 
