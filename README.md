@@ -1,8 +1,30 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="100"/>
 </div>
 
+## header
 
+## Follow me
+![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube&logoColor=cc1f1f)
+![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)
+![Vkontakte](https://img.shields.io/badge/Vkontakte-000?style=for-the-badge&logo=vk&logoColor=3472c2)
+
+#
+## :hand: Hey there! :
+
+
+## About me:
+I'm beginner test engineer. My name is Malik Ibragimov.
+
+## My resume:
+https://myresume.ru/resume/2m2Tjk21gT7/
+
+
+## Examples of my work with test documentation:
+https://github.com/UIWRTY/Chek-lists.git
+https://github.com/UIWRTY/Test-cases.git
+https://github.com/UIWRTY/Bug-reports.git
+https://github.com/UIWRTY/-test-completion-report.git
 ### :hammer_and_wrench: Languages and Tools :
 
 
@@ -28,6 +50,13 @@
 
 </div>
 
+
+
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UIWRTY&theme=dark&background=000000)](https://git.io/streak-stats)
+# My contacts:
+![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)
+![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)
+![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)
