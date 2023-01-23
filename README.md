@@ -4,9 +4,8 @@
 
 
 ## Follow me
-![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube&logoColor=cc1f1f)
-![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)
-![Vkontakte](https://img.shields.io/badge/Vkontakte-000?style=for-the-badge&logo=vk&logoColor=3472c2)
+[![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube&logoColor=cc1f1f)](https://www.youtube.com/channel/UC5ZLXgRJDOMDoiolORn8UGQ)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-000?style=for-the-badge&logo=vk&logoColor=3472c2)](https://vk.com/public186542437)
 
 
 ## :hand: Hey there! 
@@ -58,6 +57,6 @@ I'm beginner testing engineer. My name is Malik Ibragimov.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UIWRTY&theme=dark&background=000000)](https://git.io/streak-stats)
 ## My contacts:
-![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)
-![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)
-![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/MalikIbragimov)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](malikibragimov86514@gmail.com)
+
