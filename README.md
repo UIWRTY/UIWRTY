@@ -59,4 +59,7 @@ I'm beginner testing engineer. My name is Malik Ibragimov.
 ## My contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/MalikIbragimov)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](malikibragimov86514@gmail.com)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-000?style=for-the-badge&logo=vk&logoColor=3472c2)](https://vk.com/id300693345)
 
+
+### Email is listed at the top under the profile avatar
