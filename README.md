@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="600"/>
 </div>
 
-#
+
 ## Follow me
 ![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube&logoColor=cc1f1f)
 ![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)
@@ -18,7 +18,6 @@ I'm beginner testing engineer. My name is Malik Ibragimov.
 ## My resume:
 - [My resume](https://myresume.ru/resume/2m2Tjk21gT7/)
 
-#
 ## Examples of my work with test documentation:
 - [Check-lists](https://github.com/UIWRTY/Chek-lists.git)
 
@@ -27,7 +26,7 @@ I'm beginner testing engineer. My name is Malik Ibragimov.
 - [Bug-reports](https://github.com/UIWRTY/Bug-reports.git)
 
 - [Test completion reports](https://github.com/UIWRTY/-test-completion-report.git)
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 
 <div>
@@ -55,10 +54,10 @@ I'm beginner testing engineer. My name is Malik Ibragimov.
 
 
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UIWRTY&theme=dark&background=000000)](https://git.io/streak-stats)
-# My contacts:
+## My contacts:
 ![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)
 ![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)
 ![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)
