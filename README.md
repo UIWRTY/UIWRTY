@@ -2,24 +2,23 @@
   <img src="https://media2.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="600"/>
 </div>
 
-## header
-
+#
 ## Follow me
 ![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube&logoColor=cc1f1f)
 ![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)
 ![Vkontakte](https://img.shields.io/badge/Vkontakte-000?style=for-the-badge&logo=vk&logoColor=3472c2)
 
-#
-## :hand: Hey there! :
+
+## :hand: Hey there! 
 
 
 ## About me:
-I'm beginner test engineer. My name is Malik Ibragimov.
+I'm beginner testing engineer. My name is Malik Ibragimov.
 
 ## My resume:
 - [My resume](https://myresume.ru/resume/2m2Tjk21gT7/)
 
-
+#
 ## Examples of my work with test documentation:
 - [Check-lists](https://github.com/UIWRTY/Chek-lists.git)
 
@@ -27,7 +26,7 @@ I'm beginner test engineer. My name is Malik Ibragimov.
 
 - [Bug-reports](https://github.com/UIWRTY/Bug-reports.git)
 
-- [Test completion report](https://github.com/UIWRTY/-test-completion-report.git)
+- [Test completion reports](https://github.com/UIWRTY/-test-completion-report.git)
 ### :hammer_and_wrench: Languages and Tools :
 
 
