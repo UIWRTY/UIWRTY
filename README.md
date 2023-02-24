@@ -48,6 +48,8 @@ I'm beginner testing engineer. My name is Malik Ibragimov.
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/YouTrack_Icon.png" title = "youtrack" alt = "youtrack" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/github.png" title = "github" alt = "github" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/ubuntu-logo.png" title = "ubuntu" alt = "ubuntu" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title = "bash" alt = "bash" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title = 'docker' alt = 'docker' width='60' height='60'>
  
 </div>
 
