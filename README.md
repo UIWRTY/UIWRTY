@@ -41,16 +41,16 @@ I'm beginner testing engineer. My name is Malik Ibragimov.
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/Postman.png" title = "postman" alt = "postman" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/Qase.io.png" title = "qase" alt = "qase" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/selenium-ide128.png" title = "selenium" alt = "selenium" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/main-qimg-dbf8bb94e013476265de3fe196db4a7c.png" title = "testlink" alt = "testlink" width="128" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/wireshark.png" title = "wireshark" alt = "wireshark" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/JetBrains_logo.png" title = "jetbrains" alt = "jetbrains" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title = "postgreSQL" alt = "pgAdmin_postgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/YouTrack_Icon.png" title = "youtrack" alt = "youtrack" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/github.png" title = "github" alt = "github" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/ubuntu-logo.png" title = "ubuntu" alt = "ubuntu" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" title = "ubuntu" alt = "ubuntu" width="60" height="60"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title = "bash" alt = "bash" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title = 'docker' alt = 'docker' width='60' height='60'>
- 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" title = 'docker' alt = 'docker' width='80' height='80'>
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/unnamed.png" title = 'xmind' alt = 'xmind' width='80' height='80'>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg' title = 'figma' width = '60' height = '60'>
 </div>
 
 
