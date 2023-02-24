@@ -47,10 +47,8 @@ I'm beginner testing engineer. My name is Malik Ibragimov.
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title = "postgreSQL" alt = "pgAdmin_postgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/YouTrack_Icon.png" title = "youtrack" alt = "youtrack" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/github.png" title = "github" alt = "github" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/1200x630wa.png" title = "xmind" alt = "xmind" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/docker-logo-.png" title = "docker" alt = "docker" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/ubuntu-logo.png" title = "ubuntu" alt = "ubuntu" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/bash-shell.png" title = "bash" alt = "bash" width="60" height="60"/>&nbsp;
+ 
 </div>
 
 
