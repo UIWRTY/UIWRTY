@@ -3,9 +3,7 @@
 </div>
 
 
-## Follow me
-[![Youtube](https://img.shields.io/badge/Youtube-000?style=for-the-badge&logo=youtube&logoColor=cc1f1f)](https://www.youtube.com/channel/UC5ZLXgRJDOMDoiolORn8UGQ)
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-000?style=for-the-badge&logo=vk&logoColor=3472c2)](https://vk.com/public186542437)
+
 
 
 ## :hand: Hey there! 
@@ -25,6 +23,8 @@ I'm beginner testing engineer. My name is Malik Ibragimov.
 - [Bug-reports](https://github.com/UIWRTY/Bug-reports.git)
 
 - [Test completion reports](https://github.com/UIWRTY/-test-completion-report.git)
+## Examples of my work in bug-tracking system Jira:
+- [Project in Jira](https://qamalik.atlassian.net/jira/software/projects/YJLL/boards/1)
 ## :hammer_and_wrench: Languages and Tools :
 
 
@@ -47,7 +47,10 @@ I'm beginner testing engineer. My name is Malik Ibragimov.
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title = "postgreSQL" alt = "pgAdmin_postgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/YouTrack_Icon.png" title = "youtrack" alt = "youtrack" width="60" height="60"/>&nbsp;
   <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/github.png" title = "github" alt = "github" width="60" height="60"/>&nbsp;
-
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/1200x630wa.png" title = "xmind" alt = "xmind" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/docker-logo-.png" title = "docker" alt = "docker" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/ubuntu-logo.png" title = "ubuntu" alt = "ubuntu" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/UIWRTY/UIWRTY/blob/main/assets/bash-shell.png" title = "bash" alt = "bash" width="60" height="60"/>&nbsp;
 </div>
 
 
@@ -59,7 +62,8 @@ I'm beginner testing engineer. My name is Malik Ibragimov.
 ## My contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/MalikIbragimov)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](malikibragimov86514@gmail.com)
-[![Vkontakte](https://img.shields.io/badge/Vkontakte-000?style=for-the-badge&logo=vk&logoColor=3472c2)](https://vk.com/id300693345)
+![Phone number](https://img.shields.io/badge/+7_928_136_85_87-000?style=for-the-badge&logo=telephone)
+
 
 
 ### Email is listed at the top under the profile avatar
