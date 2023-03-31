@@ -10,8 +10,7 @@
 
 
 ## About me:
-Начинающий QA engineer, выпускник обучающих курсов. Есть среднее техническое образование. На данный момент самостоятельно изучаю различные материалы по QA.
-
+Aspiring Quality Improvement Engineer, graduate of undergraduate courses. There is a secondary technical education. At the moment, I independently study various materials according to the quality requirement.
 ## My resume:
 - [My resume](https://myresume.ru/resume/2m2Tjk21gT7/)
 
