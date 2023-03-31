@@ -10,15 +10,13 @@
 
 
 ## About me:
-I'm beginner testing engineer. My name is Malik Ibragimov.
+Начинающий QA engineer, выпускник обучающих курсов. Есть среднее техническое образование. На данный момент самостоятельно изучаю различные материалы по QA.
 
 ## My resume:
 - [My resume](https://myresume.ru/resume/2m2Tjk21gT7/)
 
 ## Examples of my work with test documentation:
 - [Check-lists](https://github.com/UIWRTY/Chek-lists.git)
-
-- [Test-cases](https://github.com/UIWRTY/Test-cases.git)
 
 - [Bug-reports](https://github.com/UIWRTY/Bug-reports.git)
 
